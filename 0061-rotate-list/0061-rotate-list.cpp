@@ -26,20 +26,19 @@ public:
 
         if(k==0) return head;
 
-        int cnt=0;
-        ListNode* store;
-        ListNode*temp=head;
-        while(cnt<len-k){
-            store=temp;
-            temp=temp->next;
-            cnt++;
-        }
-        store->next=NULL;
-        ListNode* newHead=temp;
+        ListNode* temp=head;
         while(temp->next){
             temp=temp->next;
         }
         temp->next=head;
-        return newHead;
+        int cnt=len-k;
+
+        while(cnt>0){
+            temp=temp->next;
+            cnt--;
+        }
+        head=temp->next;
+        temp->next=NULL;
+        return head;
     }
 };
