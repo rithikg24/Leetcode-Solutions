@@ -13,6 +13,9 @@ public:
 
         // not add element
         t.pop_back();
+        while(i+1<nums.size() && nums[i]==nums[i+1]){ 
+            i++;
+        }
         helper(res,t,nums,i+1);
     }
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
