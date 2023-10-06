@@ -7,7 +7,7 @@ public:
 
             if(arr[i]==0){
                 cnt++;
-                for(int j=2;i*j<n;j++){
+                for(long j=i;i*j<n;j++){
                     arr[i*j]=1;
                 }
             }
