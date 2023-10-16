@@ -10,6 +10,7 @@ public:
         while(r<fruits.size()){
             if(hm.count(fruits[r])){
                 hm[fruits[r]]++;
+                ans=max(ans,r-l+1);
             }else{
                 if(hm.size()==2){
                     while(hm.size()==2){
@@ -21,8 +22,10 @@ public:
                     }
                 }
                 hm[fruits[r]]=1;
+                ans=max(ans,r-l+1);
             }
-            ans=max(ans,r-l+1);
+
+
             r++;
         }
         return ans;
