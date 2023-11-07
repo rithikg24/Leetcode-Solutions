@@ -1,25 +1,34 @@
 class Solution {
 public:
-    void helper(vector<vector<int>> &res,vector<int> candidates,vector<int> temp,int s,int i){
-
+    void helper(vector<vector<int>> &res,vector<int>& candidates,vector<int> tmp,int target, int i){
         // base case
-        if(s==0){
-            res.push_back(temp);
+        if(i==candidates.size()){
             return;
         }
-        if(s<0) return;
-
-        // subtracting all numbers from s
-        while(i<candidates.size()){
-            temp.push_back(candidates[i]);
-            helper(res,candidates,temp,s-candidates[i],i);
-            temp.pop_back();
-            i++;
+        if(target<0){
+            return;
         }
+
+        if(target==0){
+            res.push_back(tmp);
+            return;
+        }
+
+        // take
+        tmp.push_back(candidates[i]);
+        helper(res,candidates,tmp,target-candidates[i],i);
+
+
+        // dont take
+        tmp.pop_back();
+        helper(res,candidates,tmp,target,i+1);
+
     }
+    
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> res;
         helper(res,candidates,{},target,0);
         return res;
+        
     }
 };
