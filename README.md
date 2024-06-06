@@ -21,9 +21,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0876-hand-of-straights](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1044-find-common-characters) |
 # Sorting
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
+# Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
