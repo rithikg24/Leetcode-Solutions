@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0876-hand-of-straights](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1044-find-common-characters) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
@@ -53,3 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0062-unique-paths) |
+# Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
