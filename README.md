@@ -34,10 +34,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0967-minimum-falling-path-sum](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1044-find-common-characters](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1044-find-common-characters) |
+| [1137-height-checker](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1137-height-checker) |
 # Sorting
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
+| [1137-height-checker](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1137-height-checker) |
 # Binary Search
 |  |
 | ------- |
@@ -81,3 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1137-height-checker) |
