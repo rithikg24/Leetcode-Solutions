@@ -16,7 +16,22 @@ public:
         return dp[i][amt]=(take+notTake);
     }    
     int change(int amount, vector<int>& coins) {
-        vector<vector<int>> dp(coins.size(),vector<int>(amount+1,-1));
-        return helper(coins,coins.size()-1,amount,dp);
+        vector<vector<int>> dp(coins.size(),vector<int>(amount+1,0));
+        // return helper(coins,coins.size()-1,amount,dp);
+
+        for(int amt=0;amt<amount+1;amt++){
+            if(amt%coins[0]==0) dp[0][amt]=1;
+        }
+
+        for(int i=1;i<coins.size();i++){
+            for(int amt=0;amt<amount+1;amt++){
+                int notTake = dp[i-1][amt];
+                int take=0;
+                if(coins[i]<=amt) take=dp[i][amt-coins[i]];
+                dp[i][amt]=notTake+take;
+            }
+        }
+
+        return dp[coins.size()-1][amount];
     }
 };
