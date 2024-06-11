@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0523-continuous-subarray-sum](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0648-replace-words) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
@@ -93,3 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1137-height-checker](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0322-coin-change) |
