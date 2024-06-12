@@ -1,19 +1,26 @@
 class Solution {
 public:
-    int helper(string s,string t,int i,int j,vector<vector<int>> &dp){
-        if(j==0) return 1;
-        if(i==0) return 0;
-
-        if(dp[i][j]!=-1) return dp[i][j];
-
-        if(s[i-1]==t[j-1]){
-            return dp[i][j]=helper(s,t,i-1,j-1,dp)+helper(s,t,i-1,j,dp);
-        }else{
-            return dp[i][j]=helper(s,t,i-1,j,dp);
-        }
-    }
     int numDistinct(string s, string t) {
-        vector<vector<int>> dp(s.length()+1,vector<int>(t.length()+1,-1));
-        return helper(s,t,s.length(),t.length(),dp);
+        const int mod = 1e9 + 7;
+        vector<vector<long long>> dp(s.length()+1,vector<long long>(t.length()+1,-1));
+
+        for(int j=0;j<t.length()+1;j++){
+            dp[0][j]=0;
+        }
+        for(int i=0;i<s.length()+1;i++){
+            dp[i][0]=1;
+        }
+
+        for(int i=1;i<s.length()+1;i++){
+            for(int j=1;j<t.length()+1;j++){
+                if(s[i-1]==t[j-1]){
+                    dp[i][j]=(dp[i-1][j-1]+dp[i-1][j])%mod;
+                }else{
+                    dp[i][j]=dp[i-1][j];
+                }
+            }
+        }
+        
+        return dp[s.length()][t.length()];
     }
 };
