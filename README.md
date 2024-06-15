@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0044-wildcard-matching](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
 | [0409-longest-palindrome](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Array
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [0502-ipo](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0502-ipo) |
 | [0518-coin-change-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0648-replace-words) |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
@@ -133,3 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0502-ipo) |
