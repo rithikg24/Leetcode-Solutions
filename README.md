@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0330-patching-array](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0502-ipo) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0853-most-profit-assigning-work](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0648-replace-words) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0853-most-profit-assigning-work](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0967-minimum-falling-path-sum](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
