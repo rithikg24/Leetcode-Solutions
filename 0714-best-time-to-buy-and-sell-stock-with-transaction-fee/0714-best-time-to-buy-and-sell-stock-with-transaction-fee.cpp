@@ -10,15 +10,10 @@ public:
         int t=0;
 
         for(int i=prices.size()-1;i>=0;i--){
-            for(int buy=0;buy<2;buy++){
-                if(buy){
-                    dp[i][buy] = max((0-prices[i])+dp[i+1][0], //i buy
-                    dp[i+1][1]); // i dont buy
-                }else{
-                    dp[i][buy] = max(prices[i]+dp[i+1][1]-fee,//i sell
-                    dp[i+1][0]); // i don't sell
-                }
-            }
+                dp[i][1] = max((0-prices[i])+dp[i+1][0], //i buy
+                dp[i+1][1]); // i dont buy
+                dp[i][0] = max(prices[i]+dp[i+1][1]-fee,//i sell
+                dp[i+1][0]); // i don't sell
         }
         return dp[0][1];
     }
