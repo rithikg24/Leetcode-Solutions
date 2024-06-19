@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1137-height-checker](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0853-most-profit-assigning-work](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Dynamic Programming
 |  |
 | ------- |
