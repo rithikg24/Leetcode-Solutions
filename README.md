@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [1129-longest-string-chain](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1217-relative-sort-array](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 # String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1129-longest-string-chain) |
 | [1137-height-checker](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0523-continuous-subarray-sum](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0523-continuous-subarray-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 # Memoization
 |  |
 | ------- |
@@ -177,3 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0502-ipo) |
+# Sliding Window
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
