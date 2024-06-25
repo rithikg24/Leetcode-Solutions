@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Tree
 |  |
 | ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Depth-First Search
 |  |
@@ -222,8 +223,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Search Tree
 |  |
 | ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Tree
 |  |
 | ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
