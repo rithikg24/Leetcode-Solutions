@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [1285-balance-a-binary-search-tree](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 # Array
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1217-relative-sort-array](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 # Binary Search
 |  |
 | ------- |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0502-ipo) |
+| [2379-maximum-total-importance-of-roads](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
 # Sliding Window
 |  |
 | ------- |
@@ -268,3 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1285-balance-a-binary-search-tree) |
+# Graph
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2379-maximum-total-importance-of-roads) |
