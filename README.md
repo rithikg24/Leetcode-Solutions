@@ -286,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -404,10 +405,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
