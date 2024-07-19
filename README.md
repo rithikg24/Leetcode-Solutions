@@ -326,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0733-flood-fill](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [1046-max-consecutive-ones-iii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Sorting
 |  |
@@ -435,4 +437,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
