@@ -330,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1753-path-with-minimum-effort](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1803-average-waiting-time](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
@@ -393,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0733-flood-fill](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1753-path-with-minimum-effort](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 ## String
 |  |
@@ -413,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Tree
 |  |
