@@ -21,11 +21,11 @@ public:
             }
         }
 
-        set<int> cities[n];
+        vector<int> cities(n,0);
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 if(i!=j && mat[i][j]<=distanceThreshold){
-                    cities[i].insert(j);
+                    cities[i]++;
                 }
             }
         }
@@ -33,8 +33,8 @@ public:
         int minCity=-1;
 
         for(int i=0;i<n;i++){
-            if(cities[i].size()<=minSize){
-                minSize=cities[i].size();
+            if(cities[i]<=minSize){
+                minSize=cities[i];
                 minCity=i;
             }
         }
