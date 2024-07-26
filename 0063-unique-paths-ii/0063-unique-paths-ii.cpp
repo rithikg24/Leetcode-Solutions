@@ -25,7 +25,6 @@ public:
         int m = arr.size();
         int n=arr[0].size();
         vector<vector<int>> dp(m,vector<int>(n,-1));
-        if(arr[0][0]==1) return 0;
         return helper(m-1,n-1,dp,arr);
     }
 };
