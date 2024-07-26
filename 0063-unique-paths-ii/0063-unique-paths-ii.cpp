@@ -1,47 +1,31 @@
 class Solution {
 public:
-    int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
-        int m = obstacleGrid.size();
-        int n = obstacleGrid[0].size();
-        
-        // If the starting point has an obstacle, return 0
-        if (obstacleGrid[0][0] == 1) return 0;
+    int helper(int i,int j,vector<vector<int>> &dp,vector<vector<int>> &arr){
+        // base case
+        if(arr[i][j]==1) return dp[i][j]=0;
+        if(i==0 && j==0 && arr[0][0]==1) return 0;
+        if(i==0 && j==0 && arr[0][0]==0) return 1;
+        if(i==0){
+            return dp[0][j]=helper(0,j-1,dp,arr);
+        }
+        if(j==0){
+            return dp[i][0]=helper(i-1,j,dp,arr);
+        }
 
-        // Create a dp array initialized to 0
-        vector<vector<int>> dp(m, vector<int>(n, 0));
-        
-        // Start point
-        dp[0][0] = 1;
-        
-        // Initialize the first column
-        for (int i = 1; i < m; ++i) {
-            if (obstacleGrid[i][0] == 1) {
-                dp[i][0] = 0;
-            } else {
-                dp[i][0] = dp[i-1][0];
-            }
-        }
-        
-        // Initialize the first row
-        for (int j = 1; j < n; ++j) {
-            if (obstacleGrid[0][j] == 1) {
-                dp[0][j] = 0;
-            } else {
-                dp[0][j] = dp[0][j-1];
-            }
-        }
-        
-        // Fill the dp table
-        for (int i = 1; i < m; ++i) {
-            for (int j = 1; j < n; ++j) {
-                if (obstacleGrid[i][j] == 1) {
-                    dp[i][j] = 0;
-                } else {
-                    dp[i][j] = dp[i-1][j] + dp[i][j-1];
-                }
-            }
-        }
-        
-        return dp[m-1][n-1];
+        if(dp[i][j]!=-1) return dp[i][j];
+
+
+        // recursion
+        int top=helper(i-1,j,dp,arr);
+        int left=helper(i,j-1,dp,arr);
+        return dp[i][j]=top+left;
+
+    }
+    int uniquePathsWithObstacles(vector<vector<int>>& arr) {
+        int m = arr.size();
+        int n=arr[0].size();
+        vector<vector<int>> dp(m,vector<int>(n,-1));
+        if(arr[0][0]==1) return 0;
+        return helper(m-1,n-1,dp,arr);
     }
 };
