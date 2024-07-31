@@ -1,26 +1,35 @@
 class Solution {
 public:
-    int numDistinct(string s, string t) {
-        const int mod = 1e9 + 7;
-        vector<vector<long long>> dp(s.length()+1,vector<long long>(t.length()+1,-1));
-
-        for(int j=0;j<t.length()+1;j++){
-            dp[0][j]=0;
+    int helper(string s,string t,int i,int j){
+        // base
+        if(j==0) return 1;
+        if(i==0) return 0;
+        // recursion
+        if(s[i-1]==t[j-1]){
+            return helper(s,t,i-1,j)+helper(s,t,i-1,j-1);
         }
-        for(int i=0;i<s.length()+1;i++){
+        return helper(s,t,i-1,j);
+    }
+    int numDistinct(string s, string t) {
+        //return helper(s,t,s.length(),t.length());
+        int n = s.length();
+        int m = t.length();
+        vector<vector<long long>> dp(n+1,vector<long long>(m+1,0));
+
+        for(int i=0;i<n+1;i++){
             dp[i][0]=1;
         }
 
-        for(int i=1;i<s.length()+1;i++){
-            for(int j=1;j<t.length()+1;j++){
+        for(int i=1;i<n+1;i++){
+            for(int j=1;j<m+1;j++){
                 if(s[i-1]==t[j-1]){
-                    dp[i][j]=(dp[i-1][j-1]+dp[i-1][j])%mod;
+                    dp[i][j]=dp[i-1][j-1]+dp[i-1][j];
                 }else{
                     dp[i][j]=dp[i-1][j];
                 }
             }
         }
-        
-        return dp[s.length()][t.length()];
+
+        return dp[n][m];
     }
 };
