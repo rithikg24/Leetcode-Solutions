@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1019-squares-of-a-sorted-array](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
@@ -424,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
