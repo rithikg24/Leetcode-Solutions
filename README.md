@@ -355,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0322-coin-change](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -603,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## Binary Indexed Tree
 |  |
