@@ -374,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -464,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0650-2-keys-keyboard](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
@@ -561,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1196-filling-bookcase-shelves](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1240-stone-game-ii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1511-count-number-of-teams) |
@@ -583,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1240-stone-game-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1240-stone-game-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -622,4 +626,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
