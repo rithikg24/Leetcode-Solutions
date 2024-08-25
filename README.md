@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0145-binary-tree-postorder-traversal](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0721-accounts-merge](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0721-accounts-merge) |
@@ -520,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -536,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0145-binary-tree-postorder-traversal](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -543,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0145-binary-tree-postorder-traversal](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
