@@ -1,27 +1,53 @@
 class Solution {
-private:
-    int dfs(vector<vector<int>>& stones, int index, vector<bool>& visited, int n){
-        visited[index] = true;
-        int result = 0; 
-        for(int i = 0; i < n; i++){
-            if(!visited[i]){
-                if(((stones[i][0] == stones[index][0] or stones[i][1] == stones[index][1]))){
-                     result+=dfs(stones, i, visited, n) + 1;
-                }
-            }
-        }
-        return result; 
-    }
 public:
     int removeStones(vector<vector<int>>& stones) {
         int n = stones.size();
-        vector<bool> visited(n, 0);
-        int ans = 0; 
-        for(int i = 0; i < n; i++){
-            if(!visited[i]){
-                ans+=dfs(stones, i, visited, n);
+        UnionFind ufObj(20002);
+        for (auto& stone : stones) {
+            int row = stone[0];
+            int col = stone[1] + 10001;
+            ufObj.unionNodes(row, col);
+        }
+        unordered_set<int> uniqueRoots;
+        for (auto& stone : stones) {
+            uniqueRoots.insert(ufObj.find(stone[0]));
+        }
+        return n - uniqueRoots.size();
+    }
+
+private:
+    class UnionFind {
+    public:
+        UnionFind(int size) : parent(size), rank(size, 1) {
+            for (int node = 0; node < size; ++node) {
+                parent[node] = node;
             }
         }
-        return ans; 
-    }
+
+        int find(int node) {
+            if (parent[node] != node) {
+                parent[node] = find(parent[node]);
+            }
+            return parent[node];
+        }
+
+        void unionNodes(int node1, int node2) {
+            int grpHead1 = find(node1);
+            int grpHead2 = find(node2);
+            if (grpHead1 != grpHead2) {
+                if (rank[grpHead1] > rank[grpHead2]) {
+                    parent[grpHead2] = grpHead1;
+                } else if (rank[grpHead1] < rank[grpHead2]) {
+                    parent[grpHead1] = grpHead2;
+                } else {
+                    parent[grpHead2] = grpHead1;
+                    rank[grpHead1]++;
+                }
+            }
+        }
+
+    private:
+        vector<int> parent;
+        vector<int> rank;
+    };
 };
