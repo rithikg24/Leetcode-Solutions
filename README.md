@@ -374,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
+| [0906-walking-robot-simulation](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -412,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0721-accounts-merge](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
+| [0906-walking-robot-simulation](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1023-time-based-key-value-store](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
@@ -465,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
