@@ -1,13 +1,15 @@
 class Solution {
 public:
-    // Take xor of start and goal and then count no. of ones
-    int minBitFlips(int start, int goal) {
-        int res=start^goal;
-        int cnt=0;
-        while(res!=0){
-            res=res&(res-1);
-            cnt++;
+    int countSetBits(int n) {
+        int count = 0;
+        while (n) {
+            n &= (n - 1); // Turn off the rightmost set bit
+            count++;
         }
-        return cnt;
+        return count;
+    }
+    int minBitFlips(int start, int goal) {
+        int cntNum = start^goal;
+        return countSetBits(cntNum);
     }
 };
