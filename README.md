@@ -494,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
@@ -506,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -533,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0516-longest-palindromic-subsequence](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0564-find-the-closest-palindrome) |
@@ -607,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -691,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Number Theory
 |  |
 | ------- |
