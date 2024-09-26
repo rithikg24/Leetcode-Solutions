@@ -9,7 +9,7 @@ public:
             if (start < r_end && end > r_start)
                 return false;
         }
-        ranges.push_back(make_pair(start, end));
+        ranges.push_back({start, end});
         return true;
     }
 };
