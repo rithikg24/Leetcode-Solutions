@@ -1,36 +1,27 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        unordered_map<char, int> map;
-        for (auto& x : s1)
-            map[x]++;
+        unordered_map<char,int> s1map;
 
-        int right = 0;
-        int left = 0;
-        int n = s2.length();
-        int required = s1.length();
+        for(char c:s1){
+            s1map[c]++;
+        }
 
-        while (right < n) {
-            // Decrease frequency of current character
-            if (map[s2[right]] > 0) {
-                required--;
-            }
-            map[s2[right]]--;
-            right++;
+        unordered_map<char,int> hm;
+        int i=0;
+        int j=0;
 
-            // When the window size equals the length of s1, check if all
-            // characters match
-            if (required == 0)
-                return true;
-
-            // If the window size exceeds the size of s1, shrink the window
-            if (right - left == s1.length()) {
-                if (map[s2[left]] >= 0) {
-                    required++;
+        while(j<s2.length()){
+            hm[s2[j]]++;
+            if(j>=s1.length()-1){
+                if(hm==s1map) return true;
+                hm[s2[i]]--;
+                if(hm[s2[i]]==0){
+                    hm.erase(s2[i]);
                 }
-                map[s2[left]]++;
-                left++;
+                i++;
             }
+            j++;
         }
 
         return false;
