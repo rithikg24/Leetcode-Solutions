@@ -413,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -454,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1923-sentence-similarity-iii) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -483,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2846-robot-collisions) |
@@ -604,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
@@ -631,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Dynamic Programming
 |  |
@@ -681,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Divide and Conquer
 |  |
 | ------- |
