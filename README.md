@@ -794,6 +794,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3394-minimum-array-end](https://github.com/rithikg24/Leetcode-Solutions/tree/master/3394-minimum-array-end) |
 ## Trie
 |  |
 | ------- |
