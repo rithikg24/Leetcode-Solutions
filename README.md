@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0744-network-delay-time) |
+| [0787-sliding-puzzle](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
@@ -382,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
@@ -579,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0063-unique-paths-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0733-flood-fill](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [0921-spiral-matrix-iii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0921-spiral-matrix-iii) |
