@@ -382,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0040-combination-sum-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0063-unique-paths-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -916,4 +918,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
