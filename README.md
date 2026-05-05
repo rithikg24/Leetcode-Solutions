@@ -506,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -565,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0432-all-oone-data-structure](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
