@@ -665,6 +665,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [1023-time-based-key-value-store](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -695,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1002-maximum-width-ramp](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1002-maximum-width-ramp) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -933,4 +935,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
