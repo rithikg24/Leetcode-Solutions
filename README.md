@@ -650,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0127-word-ladder) |
@@ -769,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
@@ -859,6 +861,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -938,5 +941,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
