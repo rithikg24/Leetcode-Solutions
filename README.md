@@ -459,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2727-number-of-senior-citizens](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
+| [2747-count-zero-request-servers](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2755-extra-characters-in-a-string](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2846-robot-collisions) |
@@ -501,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2747-count-zero-request-servers](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2755-extra-characters-in-a-string](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -567,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2747-count-zero-request-servers](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2846-robot-collisions](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
@@ -824,6 +827,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2747-count-zero-request-servers](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rithikg24/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/rithikg24/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
