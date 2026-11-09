@@ -425,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1511-count-number-of-teams) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -592,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0921-spiral-matrix-iii) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1642-water-bottles](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -771,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0948-sort-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1753-path-with-minimum-effort](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/rithikg24/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -936,6 +939,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0729-my-calendar-i](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rithikg24/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/rithikg24/Leetcode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Doubly-Linked List
 |  |
 | ------- |
